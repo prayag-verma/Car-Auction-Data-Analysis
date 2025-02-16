@@ -91,8 +91,8 @@ with open('data.csv', 'w') as f:
 📌 The Jupyter Notebook should include:  
 ✅ **Introduction** - Overview of the dataset & attributes.  
 ✅ **Data Cleaning** - Handling missing values:  
-   - Categorical → Replace with **mode**.  
-   - Numerical → Replace with **mean/median**.  
+✅ **Categorical** → Replace with **mode**.  
+✅ **Numerical** → Replace with **mean/median**.  
 ✅ **Data Trends** - Explanation of each visualization.  
 ✅ **Conclusion** - Summary of key insights.  
 ✅ **Recommendations** - Suggestions for improving dataset quality.  
