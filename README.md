@@ -224,7 +224,7 @@ To get the most out of these exercises:
 ### 🤝 **Contributors**  
 
 👤 **Prayag Verma**  
-👥 **The University of texas at Dallas**  
+👥 **Data Engineer**  
 
 🔗 **LinkedIn:**  → [linkedin.com/in/prayagv](https://www.linkedin.com/in/prayagv/)  
 🔗 **Portfolio:**  → [profile.aimtocode.com](https://profile.aimtocode.com/)
@@ -234,13 +234,9 @@ To get the most out of these exercises:
 
 Contributions are welcome! If you have additional exercises, improvements, or suggestions, please fork the repository and submit a pull request.
 
-## 📄 License
+## 📄 **License**  
 
 This project is licensed under the MIT License.
 
 💬 Feel free to raise an issue or contribute via pull requests!  
 
----
-
-### 📜 **License**  
-📄 This project is licensed under the **MIT License**.  
